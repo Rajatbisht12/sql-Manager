@@ -12,6 +12,10 @@ A web-based MySQL database management application built with Next.js.
 - SQL query editor with history
 - Responsive design
 
+## Watch a Demo
+[Watch Demo](https://github.com/Rajatbisht12/sql-Manager/blob/main/assets/video.mp4)
+
+
 ## Production Deployment
 
 ### Prerequisites
